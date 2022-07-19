@@ -12,5 +12,6 @@ public class mavenPractice1 {
     	   System.out.println("TestYantra1");
     	   //change
     	   //new chnage
+              //hi
        }
 }

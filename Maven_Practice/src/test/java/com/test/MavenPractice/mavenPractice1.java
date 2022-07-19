@@ -11,5 +11,5 @@ public class mavenPractice1 {
        public void mavenPractice2Test() {
     	   System.out.println("TestYantra1");
        }
-       
+       //he
 }

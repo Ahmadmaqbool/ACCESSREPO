@@ -10,7 +10,13 @@ public class mavenPractice {
         	System.out.println(admin);
         	String password = System.getProperty("MISSIONIMPOSSIBLE"); 
         	System.out.println(password);
+        }
+        @Test
+        public void Test2() {
+        	System.out.println("hello");
+        	System.out.println("bye");
+        }
  
         
-}
+
 }

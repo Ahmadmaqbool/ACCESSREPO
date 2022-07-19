@@ -10,6 +10,7 @@ public class mavenPractice1 {
        @Test
        public void mavenPractice2Test() {
     	   System.out.println("TestYantra1");
+    	   //change
        }
        
 }

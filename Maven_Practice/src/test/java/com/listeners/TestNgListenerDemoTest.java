@@ -11,14 +11,5 @@ public class TestNgListenerDemoTest {
        public void test1() {
     	   System.out.println("inside test1");
        }
-	   @Test
-       public void test2() {
-    	   System.out.println("inside test2");
-    	   Assert.assertTrue(false);
-       }
-	   @Test
-       public void test3() {
-    	   System.out.println("inside test3");
-    	   throw new SkipException("This test is skipped");
-       }
+	
 }

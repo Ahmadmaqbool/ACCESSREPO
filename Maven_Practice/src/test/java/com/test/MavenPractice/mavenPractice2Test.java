@@ -2,7 +2,7 @@ package com.test.MavenPractice;
 
 import org.testng.annotations.Test;
 
-public class mavenPractice2 {
+public class mavenPractice2Test {
      @Test
      public void practiceTest() {
     	 System.out.println("Tyantra");

@@ -2,7 +2,7 @@ package com.test.MavenPractice;
 
 import org.testng.annotations.Test;
 
-public class mavenPractice {
+public class mavenPracticeTest {
         @Test
         public void practiceTest1() {
 
@@ -22,6 +22,7 @@ public class mavenPractice {
         	System.out.println(url);
         	System.out.println(username);
         	System.out.println(password);
+        	System.out.println("why");
         }
 
  

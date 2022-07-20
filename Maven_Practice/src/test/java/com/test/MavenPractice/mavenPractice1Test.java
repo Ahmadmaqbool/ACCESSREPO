@@ -12,6 +12,7 @@ public class mavenPractice1Test {
     	   
     	   String BROWSER = System.getProperty("browser");
     	   String URL = System.getProperty("url");
+    	   System.out.println("br");
     	   System.out.println("TestYantra1");
     	   //change
 

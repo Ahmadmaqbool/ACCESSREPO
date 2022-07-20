@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.listeners.TestNgListenerDemoTest"/>
-      <class name="com.test.MavenPractice.mavenPractice2Test"/>
       <class name="com.test.MavenPractice.mavenPractice1Test"/>
       <class name="com.test.MavenPractice.mavenPracticeTest"/>
       <class name="com.listeners.TestNgListenerDemo2Test"/>

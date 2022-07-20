@@ -6,7 +6,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 
-public class TestNgListenerDemo2 {
+public class TestNgListenerDemo2Test {
 	   @Test
        public void test4() {
     	   System.out.println("inside test1");

@@ -4,7 +4,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class TestNgListeners implements ITestListener{
+public class TestNgListenersTest implements ITestListener{
 
 	public void onTestStart(ITestResult result) {
       System.out.println("********** Test Started : "+result.getName());		

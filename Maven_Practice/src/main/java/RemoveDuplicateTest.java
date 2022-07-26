@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class RemoveDuplicate {
+public class RemoveDuplicateTest {
      public static void main(String[] args) {
 		String s="hello";
 		char[] c=s.toCharArray();
